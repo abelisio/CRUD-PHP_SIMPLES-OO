@@ -8,7 +8,7 @@
 
 Um Cadastro Simplificado de Usuário 
 
-## Como isntalar 
+## Como instalar 
 
 
 Criar a tabela no Banco de dados:
