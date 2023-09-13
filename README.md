@@ -1,4 +1,4 @@
-# CRUD Simples 
+# CRUD 
 
 ## Utilizando
 
