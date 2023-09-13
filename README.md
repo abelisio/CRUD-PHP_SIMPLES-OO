@@ -7,12 +7,12 @@ Cadastro Simples de Usuário Utilizando apenas PHP
 Criar a tabela no Banco de dados:
 
 ```sql
-create table usuario(
-    id integer primary key AUTO_INCREMENT,
-    nome varchar(200) not null,
-    sobrenome varchar(300) not null,
-    idade integer not null,
-    sexo char(1) not null
+create table usuario2(
+    id INT NOT NULL primary key AUTO_INCREMENT,
+    nome VARCHAR(255) not null,
+    sobrenome VARCHAR(255) not null,
+    idade INT(3) not null,
+    sexo CHAR(1) not null
 )
 ```
 
