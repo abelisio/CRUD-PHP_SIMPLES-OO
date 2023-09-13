@@ -14,7 +14,7 @@ Um Cadastro Simplificado de Usuário
 Criar a tabela no Banco de dados:
 
 ```sql
-create table usuario2(
+create table usuario(
     id INT NOT NULL primary key AUTO_INCREMENT,
     nome VARCHAR(255) not null,
     sobrenome VARCHAR(255) not null,
