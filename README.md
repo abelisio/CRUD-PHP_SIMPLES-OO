@@ -1,7 +1,14 @@
-# CRUD Simples Utilizando PHP + MySql + Bootstrap 5
-Cadastro Simples de Usuário Utilizando apenas PHP 
+# CRUD Simples 
 
-## Instalação
+## Utilizando
+
+- PHP 8.2
+- MySql 8.0
+- Bootstrap 5
+
+Um Cadastro Simplificado de Usuário 
+
+## Como isntalar 
 
 
 Criar a tabela no Banco de dados:
